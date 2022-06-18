@@ -3,8 +3,9 @@
 An Advanced C# Cheat Menu for Windows Emulators.
 Built In Visual Studio.
 
-NOTE 
-U NEED TO ADD THE DLLS IN THE REFERENCE FOLDER TO THE PROJECT REFERENCE INORDER TO WORK
+NOTE
+YOU NEED TO ADD THE DLLS IN THE REFERENCE FOLDER TO THE PROJECT REFERENCE INORDER TO WORK.
+DISABLE THE ANTI-VIRUS, because memory.dll will be detected as a virus but its not!
 
 Features
 1. Supports Patching.
