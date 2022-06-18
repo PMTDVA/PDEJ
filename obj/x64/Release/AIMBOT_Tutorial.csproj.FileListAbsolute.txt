@@ -1,0 +1,14 @@
+D:\logitech\logitech\bin\x64\Release\Aimbot_Tutorial.exe.config
+D:\logitech\logitech\bin\x64\Release\Aimbot_Tutorial.exe
+D:\logitech\logitech\bin\x64\Release\Aimbot_Tutorial.pdb
+D:\logitech\logitech\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.AssemblyReference.cache
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.SuggestedBindingRedirects.cache
+D:\logitech\logitech\obj\x64\Release\Aimbot_Tutorial.Form1.resources
+D:\logitech\logitech\obj\x64\Release\Aimbot_Tutorial.Properties.Resources.resources
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.GenerateResource.cache
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.CoreCompileInputs.cache
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.Fody.CopyLocal.cache
+D:\logitech\logitech\obj\x64\Release\AIMBOT_Tutorial.csproj.CopyComplete
+D:\logitech\logitech\obj\x64\Release\Aimbot_Tutorial.exe
+D:\logitech\logitech\obj\x64\Release\Aimbot_Tutorial.pdb
