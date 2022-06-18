@@ -3,6 +3,9 @@
 An Advanced C# Cheat Menu for Windows Emulators.
 Built In Visual Studio.
 
+NOTE 
+U NEED TO ADD THE DLLS IN THE REFERENCE FOLDER TO THE PROJECT REFERENCE INORDER TO WORK
+
 Features
 1. Supports Patching.
 2. Single line memory Patching.
