@@ -13,7 +13,7 @@ Please be aware that some antivirus software may flag the "memory.dll" file as a
 
 - **Single Line Memory Patching**: With PDEJ, you can perform memory patching operations with ease using just a single line of code.
 
-- **LovelY GUI**: The cheat menu boasts a visually appealing and user-friendly graphical user interface, enhancing the overall user experience.
+- **Modern GUI**: The cheat menu boasts a visually appealing and user-friendly graphical user interface, enhancing the overall user experience.
 
 - **Full Customization**: Customize the cheat menu to your heart's content, adapting it to your specific needs and preferences.
 
